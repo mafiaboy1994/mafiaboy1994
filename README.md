@@ -37,10 +37,12 @@ mindmap
       Automation Patterns
     DevOps
       CI/CD
+      GitHub Enterprise
       GitHub Actions
       Terraform
       Bicep
       Infrastructure as Code
+      Image Automation
     FinOps
       Cost Visibility
       Forecasting
@@ -144,6 +146,7 @@ My FinOps focus areas include:
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Enterprise-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -153,6 +156,8 @@ My FinOps focus areas include:
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=freebsd&logoColor=white" />
 </p>
 
@@ -166,7 +171,8 @@ I’m currently going deeper into:
 - Azure landing zone architecture and automation
 - Platform engineering using internal developer platform patterns
 - Terraform module design and reusable deployment workflows
-- GitHub Actions for infrastructure validation and delivery
+- GitHub Enterprise and GitHub Actions for infrastructure validation and delivery
+- Packer-based image automation for repeatable server builds
 - FinOps tooling, reporting and optimisation for Azure environments
 - Cloud governance, security baselines and operational standards
 - Building scalable services that reduce manual operational effort
@@ -238,7 +244,7 @@ Outside of work, I use my homelab to explore infrastructure patterns in a safe e
 
 Current areas of interest include:
 
-- Hyper-V based lab environments
+- Hyper-V and VMware based lab environments
 - pfSense routing, firewalling and VLAN design
 - Linux server automation
 - Kubernetes fundamentals
